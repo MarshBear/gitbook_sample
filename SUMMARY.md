@@ -18,4 +18,4 @@
 
 ## Hello
 
-- [hello](newtext/test.md)
+- [hi](newtext/test.md)
