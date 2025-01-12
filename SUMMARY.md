@@ -17,3 +17,5 @@
 - [Integrations](basics/integrations.md)
 
 ## Hello
+
+- [hello](newtext/test.md)
