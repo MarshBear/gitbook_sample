@@ -16,11 +16,7 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## Hello
+# Chapter title
+## Details About Grammar
 
-* [hi](newtext/test.md)
-
-## gp1
-
-* [Page 1](gp1/page-1/README.md)
-  * [Page 3](gp1/page-1/page-3.md)
+* [First title]()
